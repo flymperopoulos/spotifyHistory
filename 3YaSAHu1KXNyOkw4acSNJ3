@@ -1,0 +1,639 @@
+{
+    "id": "3YaSAHu1KXNyOkw4acSNJ3",
+    "name": "Up",
+    "tracks": {
+        "items": [
+            {
+                "track": {
+                    "album": {
+                        "name": "Stories"
+                    },
+                    "id": "7kbTZWt7DnzIzbkyzFE1PW",
+                    "name": "For A Better Day"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Stories"
+                    },
+                    "id": "35j3CjgBRoqLp8LsAKsQF4",
+                    "name": "City Lights"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Stories"
+                    },
+                    "id": "1rDETmcizen79JghAEm1Se",
+                    "name": "Gonna Love Ya"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Stories"
+                    },
+                    "id": "2K1zp0p7PVmrBUQu6evtfe",
+                    "name": "Somewhere In Stockholm"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "How Deep Is Your Love"
+                    },
+                    "id": "22mek4IiqubGD9ctzxc69s",
+                    "name": "How Deep Is Your Love"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Stories"
+                    },
+                    "id": "0JZ9TvOLtZJaGqIyC4hYZX",
+                    "name": "Trouble"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Stories"
+                    },
+                    "id": "4zJ3S7wjKwPvLbWmeKhceh",
+                    "name": "True Believer"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Stories"
+                    },
+                    "id": "5IZg7Ngm3CTOj9l00YSrt9",
+                    "name": "Talk To Myself"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Stories"
+                    },
+                    "id": "260jSxvzkFt71ksvkcy2ke",
+                    "name": "Broken Arrows"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Stories"
+                    },
+                    "id": "2P4OICZRVAQcYAV2JReRfj",
+                    "name": "Waiting For Love"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Stories"
+                    },
+                    "id": "3Q95VQL8yWRO8mkF6VoDzi",
+                    "name": "Sunset Jesus"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "The Black Pearl (Remixes, Pt. II)"
+                    },
+                    "id": "2yW3Rc7oa6VuN9dscpbiMc",
+                    "name": "The Black Pearl - Body Bangers Edit"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Peace Is The Mission: Extended"
+                    },
+                    "id": "6lDo13SSgTv0WbyUQKgnjk",
+                    "name": "Light It Up (feat. Nyla & Fuse ODG) - Remix"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "G.R.L."
+                    },
+                    "id": "3qqho4PnTn3zlMPBzWhFFD",
+                    "name": "Ugly Heart"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Younger (The Remixes)"
+                    },
+                    "id": "7hrDA2n8BVGLyHra0rBiFd",
+                    "name": "Younger - Kygo Remix"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Reality"
+                    },
+                    "id": "5kZRoc6Gz7u5eu4a0YM2LS",
+                    "name": "Reality - Radio Edit"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Hula Hoop"
+                    },
+                    "id": "4vEUY73dVOg97Ajbqq9zgV",
+                    "name": "Hula Hoop"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "My Everything (Deluxe)"
+                    },
+                    "id": "2OlWBmSjf1aUPGLNf0UI5A",
+                    "name": "One Last Time"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Fast Car (Radio Edit)"
+                    },
+                    "id": "6OZh916QF8XNunWaP97WEZ",
+                    "name": "Fast Car - Radio Edit"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Forbidden Voices"
+                    },
+                    "id": "2BF1X5nkYYSb0AUTRaGkDm",
+                    "name": "Forbidden Voices - Original Mix"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "The Truth (Remixes)"
+                    },
+                    "id": "7HzCxalzzYQOFb9a7Xs3j6",
+                    "name": "I Took A Pill In Ibiza - Seeb Remix"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Don't Look Down"
+                    },
+                    "id": "5M9jOReAKGZ2AttVefFjTY",
+                    "name": "Don't Look Down"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Rolling Papers"
+                    },
+                    "id": "53DB6LJV9B8sz0p1s6tlGS",
+                    "name": "Roll Up"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Meet The Orphans"
+                    },
+                    "id": "6DXLO8LndZMVOHM0wNbpzg",
+                    "name": "Danza Kuduro"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Faded"
+                    },
+                    "id": "1brwdYwjltrJo7WHpIvbYt",
+                    "name": "Faded"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Now You're Gone - The Album"
+                    },
+                    "id": "3N9huFk2IceMSlKoZLaUsv",
+                    "name": "Boten Anna - Radio edit"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Don't Worry"
+                    },
+                    "id": "2Wf0uMfCpwLO1B2Up3NbXH",
+                    "name": "Don't Worry"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Pharmacy"
+                    },
+                    "id": "3aIhJDHxr1kgTSnutJxPTH",
+                    "name": "Peanut Butter Jelly"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "The Days / Nights"
+                    },
+                    "id": "3OwPSJu609AMzotCEyoMiO",
+                    "name": "The Nights"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Stole the Show"
+                    },
+                    "id": "4iZPNYqzI2L0uwuUKun7Aa",
+                    "name": "Stole the Show"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Headlights (feat. Ilsey)"
+                    },
+                    "id": "06Hdbxh6NCy6TIhjdXTchB",
+                    "name": "Headlights (feat. Ilsey)"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Locked Away"
+                    },
+                    "id": "0sQLhT32E9ZG2zn5iYR6nN",
+                    "name": "Locked Away"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Old Thing Back (feat. Ja Rule and Ralph Tresvant)"
+                    },
+                    "id": "6HTJZ0TQJVMSKkUGzAOe2h",
+                    "name": "Old Thing Back (feat. Ja Rule and Ralph Tresvant)"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Roses"
+                    },
+                    "id": "3vv9phIu6Y1vX3jcqaGz5Z",
+                    "name": "Roses"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Despicable Me 2 (Original Motion Picture Soundtrack)"
+                    },
+                    "id": "6NPVjNh8Jhru9xOmyQigds",
+                    "name": "Happy"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Under The Influence"
+                    },
+                    "id": "3Pt1xaTSWai85tPfW6tulH",
+                    "name": "Explosive"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Our Own Way"
+                    },
+                    "id": "6JNYQjwIYbnEs7PFuqfwhv",
+                    "name": "Our Own Way - Original Mix Edit"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Rolling Papers"
+                    },
+                    "id": "2kzRSiyignH8yzPTrWvyPo",
+                    "name": "No Sleep"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Purpose (Deluxe)"
+                    },
+                    "id": "69bp2EbF7Q2rqc5N3ylezZ",
+                    "name": "Sorry"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "What Do You Mean?"
+                    },
+                    "id": "1ds2QsfhAAfRiaFMGDzrdb",
+                    "name": "What Do You Mean?"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Perfectly Damaged"
+                    },
+                    "id": "1eFAmefwZ0RNlwUTkbLOzf",
+                    "name": "Should've Gone Home"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Make Out"
+                    },
+                    "id": "3BwR5psKNxcyqWoc80eOuq",
+                    "name": "ILYSB"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Ibiza Calling"
+                    },
+                    "id": "55lQhBPlbLapCxa8bbXkTz",
+                    "name": "The Buzz"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Wicked Wonderland"
+                    },
+                    "id": "0zQXwzM2gtGfClqBBTsKXp",
+                    "name": "Wicked Wonderland"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Everything Is 4"
+                    },
+                    "id": "7oGZAicScQt96OAW4AruYy",
+                    "name": "Want To Want Me"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Purpose (Deluxe)"
+                    },
+                    "id": "3hB5DgAiMAQ4DzYbsMq1IT",
+                    "name": "Love Yourself"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Sweet Lovin'"
+                    },
+                    "id": "614TxLN6BP9nN8pFcPdLVE",
+                    "name": "Sweet Lovin' - Radio Edit"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Sun Is Shining"
+                    },
+                    "id": "1Gzv0cMy3xm7sgN5gd7WkU",
+                    "name": "Sun Is Shining"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Middle"
+                    },
+                    "id": "2Fn3coxd0xAZ09JtrgcgHa",
+                    "name": "Middle"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "V (Deluxe)"
+                    },
+                    "id": "494OU6M7NOf4ICYb4zWCf5",
+                    "name": "Sugar"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Cut Your Teeth (Kygo Remix)"
+                    },
+                    "id": "1y4Kln6VEjQMpmHW7j9GeY",
+                    "name": "Cut Your Teeth - Kygo Remix"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Beauty Behind The Madness"
+                    },
+                    "id": "6RsWqX8zABZLhZydXxEFOm",
+                    "name": "Can't Feel My Face"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Delirium (Deluxe)"
+                    },
+                    "id": "3zHq9ouUJQFQRf3cm1rRLu",
+                    "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\""
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Länge leve vi"
+                    },
+                    "id": "6McZ8E4Ynivc55BbDCzaAJ",
+                    "name": "Länge leve vi"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "TALKING IS HARD"
+                    },
+                    "id": "4kbj5MwxO1bq9wjT5g9HaA",
+                    "name": "Shut Up and Dance"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Me 4 U"
+                    },
+                    "id": "023OVLNzXhX0j7CxswUt6D",
+                    "name": "Cheerleader - Felix Jaehn Remix Radio Edit"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Me 4 U"
+                    },
+                    "id": "3J0xGZYWYtWAEwjDhUa2V2",
+                    "name": "Drop in the Ocean"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Finale"
+                    },
+                    "id": "0DanGj9TtgZIjJnHdTbW9v",
+                    "name": "Finale"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "My Life Is A Party"
+                    },
+                    "id": "6BsbXBQZ7cFTuej6MfM92O",
+                    "name": "My Life Is A Party - R.I.O. Edit"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Undressed"
+                    },
+                    "id": "0gpoeZamw0GIJllSNTzvIB",
+                    "name": "Undressed"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Younger"
+                    },
+                    "id": "1Y7497MCCpZ19EuwIaqoZ0",
+                    "name": "Younger - Kygo Remix"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Starships (Explicit Version)"
+                    },
+                    "id": "5VpmCqOpS4lgZODFhJiI8B",
+                    "name": "Starships"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Higher Place"
+                    },
+                    "id": "2mviqu3iMdsQjeWSxBk7gf",
+                    "name": "Higher Place"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Bailando"
+                    },
+                    "id": "3Y9xtYyVyF13po6xePV5Cp",
+                    "name": "Bailando - English Version"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "I'm All Yours"
+                    },
+                    "id": "7DMtxyULw4TuBoKGObE9KC",
+                    "name": "I'm All Yours - Bbop & Roksteadi Edit"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Get Lucky"
+                    },
+                    "id": "2Foc5Q5nqNiosCNqttzHof",
+                    "name": "Get Lucky - Radio Edit"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Sonnentanz"
+                    },
+                    "id": "4DbmuOSxftTmltXNebpvl7",
+                    "name": "Sonnentanz - Original Version"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Blurred Lines"
+                    },
+                    "id": "0XzkemXSiXJa7VgDFPfU4S",
+                    "name": "Blurred Lines"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Vivir Mi Vida"
+                    },
+                    "id": "3tm3GG9BBOYhUzKWlS6A74",
+                    "name": "Vivir Mi Vida"
+                }
+            },
+            {
+                "track": {
+                    "album": {
+                        "name": "Planet Pit"
+                    },
+                    "id": "5oBPpIwObzAbBwdINug5I6",
+                    "name": "Give Me Everything"
+                }
+            }
+        ],
+        "next": null
+    }
+}
